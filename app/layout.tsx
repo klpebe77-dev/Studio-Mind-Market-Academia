@@ -1,6 +1,5 @@
 import type { Metadata } from 'next';
 import { ClerkProvider } from '@clerk/nextjs';
-import './globals.css'; // We'll create this next if needed
 
 export const metadata: Metadata = {
   title: 'Studio-Mind Market Academia',
